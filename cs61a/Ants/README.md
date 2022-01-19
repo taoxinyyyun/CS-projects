@@ -14,4 +14,3 @@ The code is based on skeleton code from the class. Project was completed using t
 * graphics.py: Utilities for displaying simple two-dimensional animations
 * state.py: Abstraction for gamestate for gui.py
 * utils.py: Some functions to facilitate the game interface
-* assets: A directory of images and files used by gui.py
